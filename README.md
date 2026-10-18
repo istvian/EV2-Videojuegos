@@ -2,7 +2,13 @@
 
 <img width="1920" height="1080" alt="Captura desde 2026-10-18 17-53-14" src="https://github.com/user-attachments/assets/22de4d76-7329-4ec0-9baf-4fef6b12b4d4" />
 
+>[!IMPORTANT]
+> Se puede probar el juego [aquí](https://istvian.github.io/EV2-Videojuegos/)
 
+## Controles
+Flechas izquierda y derecha para movimiento.
+Tecla X para saltar.
+Tecla R para reiniciar nivel.
 
 ## Plataforma
 Para el juego actual se definió la plataforma PC. Mi pc actual cuenta con sistema operativo Ubuntu Linux, por lo que la versión del proyecto esta en linux, pero también es compatible con otros sistemas operativos de escritorio.
@@ -12,8 +18,7 @@ Para el juego actual se definió la plataforma PC. Mi pc actual cuenta con siste
 > [!NOTE]
 > Para testear de mejor manera el juego sin tener que convertir el proyecto se adjuntan builds de linux y web
 
->[!IMPORTANT]
-> Se puede probar el juego [aquí](https://istvian.github.io/EV2-Videojuegos/)
+
 ## Motor de renderización
 Se utilizó el motor URP 2D, en especifico se aprovecharon el sistema de iluminación 2D + Shadow Catchers y el sistema de Volume (Post procesado).
 
