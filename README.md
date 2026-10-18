@@ -10,7 +10,7 @@ Para el juego actual se definió la plataforma PC. Mi pc actual cuenta con siste
 <img width="1920" height="1080" alt="Captura desde 2026-10-18 17-42-17" src="https://github.com/user-attachments/assets/661515db-9516-4a07-ac08-fd7d418a3b80" />
 
 > [!NOTE]
-> Para testear de mejor manera el juego sin tener que convertir el proyecto se adjuntan builds de windows, linux y web
+> Para testear de mejor manera el juego sin tener que convertir el proyecto se adjuntan builds de linux y web
 
 ## Motor de renderización
 Se utilizó el motor URP 2D, en especifico se aprovecharon el sistema de iluminación 2D + Shadow Catchers y el sistema de Volume (Post procesado).
