@@ -12,6 +12,8 @@ Para el juego actual se definió la plataforma PC. Mi pc actual cuenta con siste
 > [!NOTE]
 > Para testear de mejor manera el juego sin tener que convertir el proyecto se adjuntan builds de linux y web
 
+>[!IMPORTANT]
+> Se puede probar el juego [aquí](https://istvian.github.io/EV2-Videojuegos/)
 ## Motor de renderización
 Se utilizó el motor URP 2D, en especifico se aprovecharon el sistema de iluminación 2D + Shadow Catchers y el sistema de Volume (Post procesado).
 
